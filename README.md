@@ -21,4 +21,5 @@ const bumblebee = {
 }
 ```
 ![My github stats:](https://github-readme-stats.vercel.app/api?username=Bumblebee-3&&show_icons=true&theme=gruvbox)
-\n<img alt="Bumblebee's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bumblebee-3&theme=radical&langs_count=8&layout=compact"/>
+
+<img alt="Bumblebee's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bumblebee-3&theme=radical&langs_count=8&layout=compact"/>
