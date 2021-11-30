@@ -21,8 +21,11 @@ const bumblebee = {
     }
 }
 ```
+## Packages
 [![npm](https://img.shields.io/npm/v/link-checker-malicious?color=blue&logo=npm&style=flat-square&label=link-checker-malicious)](https://www.npmjs.com/package/link-checker-malicious)
 
+
+## Stats
 
 ![My github stats:](https://github-readme-stats.vercel.app/api?username=Bumblebee-3&&show_icons=true&theme=gruvbox)
 
