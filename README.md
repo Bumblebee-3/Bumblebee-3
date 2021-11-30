@@ -21,6 +21,9 @@ const bumblebee = {
     }
 }
 ```
+[![npm](https://img.shields.io/npm/v/link-checker-malicious?color=blue&logo=npm&style=flat-square&label=link-checker-malicious)](https://www.npmjs.com/package/link-checker-malicious)
+
+
 ![My github stats:](https://github-readme-stats.vercel.app/api?username=Bumblebee-3&&show_icons=true&theme=gruvbox)
 
 <img alt="Bumblebee's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bumblebee-3&theme=radical&langs_count=8&layout=compact"/>
