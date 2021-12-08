@@ -21,7 +21,7 @@ const bumblebee = {
 ```
 ## Packages
 [![npm](https://img.shields.io/npm/v/link-checker-malicious?color=blue&logo=npm&style=flat-square&label=link-checker-malicious)](https://www.npmjs.com/package/link-checker-malicious)
-
+[![npm](https://img.shields.io/npm/v/link-checker-malicious?color=blue&logo=npm&style=flat-square&label=aoi.js-plugins)](https://www.npmjs.com/package/aoi.js-plugins)
 
 ## Stats
 
