@@ -1,5 +1,4 @@
-# Bumblebee
-# Hey, I am Bumblebee. 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7AE22&width=461&height=61&lines=Hi!;Im+Bumblebee!)](https://git.io/typing-svg)
 
 ## Some more info about me: 
 ```js
