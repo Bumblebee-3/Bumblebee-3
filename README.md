@@ -12,8 +12,8 @@ const bumblebee = {
     hobbies: ["Coding", "Reading", "Sketching Cars", "Listening to Music"],
     socials: {
         github: "github.com/Bumblebee-3",
-        discord: "https://discord.gg/uX2mBpqguP",
-        email: "bumblebee4ever01@gmail.com"
+        discord: "hhmmm",
+        email: "bumblebee4ever02@gmail.com"
         discord_bot : "https://disbotlist.xyz/bot/821282510495285259",
         package : "https://npmjs.com/package/link-checker-malicious"
     }
