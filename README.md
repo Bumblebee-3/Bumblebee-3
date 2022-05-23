@@ -13,9 +13,13 @@ const bumblebee = {
     socials: {
         github: "github.com/Bumblebee-3",
         discord: "hhmmm",
-        email: "bumblebee4ever02@gmail.com"
-        discord_bot : "https://disbotlist.xyz/bot/821282510495285259",
-        package : "https://npmjs.com/package/link-checker-malicious"
+        email: "hmmmm",
+        discord_bot : "Anti Freeload",
+        packages : {
+            "https://www.npmjs.com/package/easier-discord.js",//co-owner
+            "https://www.npmjs.com/package/aoi.js-plugins",
+            "https://www.npmjs.com/package/aoi.js-panel"// co-dev.
+            
     }
 }
 ```
