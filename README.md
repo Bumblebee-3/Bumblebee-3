@@ -24,9 +24,9 @@ const bumblebee = {
 }
 ```
 ## Packages
-[![npm](https://img.shields.io/npm/v/link-checker-malicious?color=blue&logo=npm&style=flat-square&label=link-checker-malicious)](https://www.npmjs.com/package/link-checker-malicious)
+[![npm](https://img.shields.io/npm/v/easier-discord.js?color=green&logo=npm&style=flat-square&label=easier-discord.js)](https://www.npmjs.com/package/easier-discord.js)
 [![npm](https://img.shields.io/npm/v/aoi.js-plugins?color=blue&logo=npm&style=flat-square&label=aoi.js-plugins)](https://www.npmjs.com/package/aoi.js-plugins)
-[![npm](https://img.shields.io/npm/v/aoi.js-panel?color=blue&logo=npm&style=flat-square&label=aoi.js-panel)](https://www.npmjs.com/package/aoi.js-panel)
+[![npm](https://img.shields.io/npm/v/aoi.js-panel?color=red&logo=npm&style=flat-square&label=aoi.js-panel)](https://www.npmjs.com/package/aoi.js-panel)
 
 ## Stats
 
