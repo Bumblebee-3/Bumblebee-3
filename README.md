@@ -31,7 +31,7 @@ const bumblebee = {
 [![npm](https://img.shields.io/npm/v/@akarui/aoi.panel?color=red&logo=npm&style=flat-square&label=@akarui/aoi.panel)](https://www.npmjs.com/package/@akarui/aoi.panel)
 
 ## Stats
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
+![](https://komarev.com/ghpvc/?username=Bumblebee-3&color=yellow)
 
 
 ![My github stats:](https://github-readme-stats.vercel.app/api?username=Bumblebee-3&&show_icons=true&theme=gruvbox&count_private=true)
