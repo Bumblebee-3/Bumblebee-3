@@ -31,13 +31,12 @@ const bumblebee = {
 [![npm](https://img.shields.io/npm/v/@akarui/aoi.panel?color=red&logo=npm&style=flat-square&label=@akarui/aoi.panel)](https://www.npmjs.com/package/@akarui/aoi.panel)
 
 ## Stats
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
 
 
 ![My github stats:](https://github-readme-stats.vercel.app/api?username=Bumblebee-3&&show_icons=true&theme=gruvbox&count_private=true)
 
 <img alt="My most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bumblebee-3&theme=gruvbox&langs_count=8&layout=compact"/>
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bumblebee-3&theme=gruvbox&date_format=j%20M%5B%20Y%5D)
 
