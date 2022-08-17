@@ -9,29 +9,33 @@ const bumblebee = {
     age: [Math.floor(Math.random() * age.length)],
     speaks: ["English","Hindi"],
     code: ["JavaScript", "HTML", "Python"],
-    tools: ["Node.js", "Python IDLE"],
+    tools: ["Node.js", "Python IDLE","ReplIt"],
     hobbies: ["Coding", "Reading", "Sketching Cars", "Listening to Music"],
     socials: {
-        github: "github.com/Bumblebee-3",
-        discord: "hhmmm",
+        github: "https://github.com/Bumblebee-3",
+        discord: "Blurr1447",
         email: "hmmmm",
-        discord_bot : "Anti Freeload",
+        discord_bot : "Anti Freeload [not maintained]",
         packages : {
+            "https://www.npmjs.com/package/link-checker-malicious",//owner
+            "https://www.npmjs.com/package/aoi.js-plugins",//owner [not maintained!]
             "https://www.npmjs.com/package/easier-discord.js",//co-owner
-            "https://www.npmjs.com/package/aoi.js-plugins",
-            "https://www.npmjs.com/package/aoi.js-panel"// co-dev.
+            "https://www.npmjs.com/package/@akarui/aoi.panel",//lead dev
+
             
     }
 }
 ```
 ## Packages
-[![npm](https://img.shields.io/npm/v/easier-discord.js?color=green&logo=npm&style=flat-square&label=easier-discord.js)](https://www.npmjs.com/package/easier-discord.js)
-[![npm](https://img.shields.io/npm/v/aoi.js-plugins?color=blue&logo=npm&style=flat-square&label=aoi.js-plugins)](https://www.npmjs.com/package/aoi.js-plugins)
-[![npm](https://img.shields.io/npm/v/aoi.js-panel?color=red&logo=npm&style=flat-square&label=aoi.js-panel)](https://www.npmjs.com/package/aoi.js-panel)
-[![npm](https://img.shields.io/npm/v/@akarui/aoi.panel?color=red&logo=npm&style=flat-square&label=@akarui/aoi.panel)](https://www.npmjs.com/package/@akarui/aoi.panel)
+[![npm](https://img.shields.io/npm/v/easier-discord.js?color=orange&logo=npm&style=flat-square&label=easier-discord.js)](https://www.npmjs.com/package/easier-discord.js)
+[![npm](https://img.shields.io/npm/v/aoi.js-plugins?color=orange&logo=npm&style=flat-square&label=aoi.js-plugins)](https://www.npmjs.com/package/aoi.js-plugins)
+[![npm](https://img.shields.io/npm/v/aoi.js-panel?color=orange&logo=npm&style=flat-square&label=aoi.js-panel)](https://www.npmjs.com/package/aoi.js-panel)
+[![npm](https://img.shields.io/npm/v/@akarui/aoi.panel?color=orange&logo=npm&style=flat-square&label=@akarui/aoi.panel)](https://www.npmjs.com/package/@akarui/aoi.panel)
+[![npm](https://img.shields.io/npm/v/link-checker-malicious?color=orange&logo=npm&style=flat-square&label=link-checker-malicious)](https://www.npmjs.com/package/link-checker-malicious)
+
 
 ## Stats
-![](https://komarev.com/ghpvc/?username=Bumblebee-3&color=yellow)
+![](https://komarev.com/ghpvc/?username=Bumblebee-3&color=orange)
 
 
 ![My github stats:](https://github-readme-stats.vercel.app/api?username=Bumblebee-3&&show_icons=true&theme=gruvbox&count_private=true)
