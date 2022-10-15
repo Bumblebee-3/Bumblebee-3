@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7AE22&width=461&height=61&lines=Hey!+Im+Bumblebee!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ALGERIAN&pause=1000&color=F78900&width=435&lines=Hey%2C+I'm+Bumblebee!;I+am+a+code+enthusiast;+and+a+car+and+music+lover...)](https://git.io/typing-svg)
 ## Some more info about me:
 
 ```js
@@ -9,12 +9,12 @@ const bumblebee = {
     age: [Math.floor(Math.random() * age.length)],
     speaks: ["English","Hindi"],
     code: ["JavaScript", "HTML", "Python"],
-    tools: ["Node.js", "Python IDLE","ReplIt"],
+    tools: ["Node.js", "Python IDLE","ReplIt","Arduino IDE","VS Code"],
     hobbies: ["Coding", "Reading", "Sketching Cars", "Listening to Music"],
     socials: {
         github: "https://github.com/Bumblebee-3",
-        discord: "Blurr1447",
-        email: "hmmmm",
+        discord: "Blurr#1447",
+        email: "bumblebee4ever02@gmail.com",
         discord_bot : "Anti Freeload [not maintained]",
         packages : {
             "https://www.npmjs.com/package/link-checker-malicious",//owner
