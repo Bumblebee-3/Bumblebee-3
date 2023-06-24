@@ -110,7 +110,7 @@ Syntax of the for-each loop:
 
 ```java
 type[] myArray = {...};
-for (type i : myArray) {...use `i` hear...}
+for (type i : myArray) {...use `i` here...}
 ```
 
 An example:
