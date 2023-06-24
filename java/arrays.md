@@ -95,13 +95,39 @@ for(int i=0;i<anime.length;i++){
 }
 
 /*
-
 The output will be
 0. Dragon Ball Z
 1. Naruto
 2. Death Note
 3. Demon Slayer
 4. One Piece
+*/
+```
 
+Another easy way to loop over all items would be to use the for-each loop in Java.
+
+Syntax of the for-each loop:
+
+```java
+type[] myArray = {...};
+for (type i : myArray) {...use `i` hear...}
+```
+
+An example:
+
+```java
+String anime = {"Dragon Ball Z","Naruto","Death Note","Demon Slayer","One Piece"};
+int i = 1; // keep track of index (optional)
+for (String name : anime) {
+    System.out.println(i + ". " + name);
+    i++;
+}
+/*
+The output will be
+1. Dragon Ball Z
+2. Naruto
+3. Death Note
+4. Demon Slayer
+5. One Piece
 */
 ```
