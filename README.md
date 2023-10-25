@@ -6,10 +6,10 @@ const age = ["13","14","15","16","17","18"]
 const bumblebee = {
     name: "UNKNOWN *grin*",
     pronouns: "he" | "him",
-    age: [Math.floor(Math.random() * age.length)],
+    age: age[Math.floor(Math.random() * age.length)],
     speaks: ["English","Hindi"],
     code: ["JavaScript", "HTML", "Python"],
-    tools: ["Node.js", "Python IDLE","ReplIt","Arduino IDE","VS Code"],
+    tools: ["Node.js", "Python IDLE", "Replit", "Arduino IDE", "VS Code"],
     hobbies: ["Coding", "Reading", "Sketching Cars", "Listening to Music"],
     socials: {
         github: "https://github.com/Bumblebee-3",
@@ -35,7 +35,7 @@ const bumblebee = {
 
 
 ## Stats
-![](https://komarev.com/ghpvc/?username=Bumblebee-3&color=orange)
+![Profile count](https://komarev.com/ghpvc/?username=Bumblebee-3&color=orange)
 
 
 ![My github stats:](https://github-readme-stats.vercel.app/api?username=Bumblebee-3&&show_icons=true&theme=gruvbox&count_private=true)
@@ -44,8 +44,8 @@ const bumblebee = {
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bumblebee-3&theme=gruvbox&date_format=j%20M%5B%20Y%5D)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bumblebee-3&theme=gruvbox)
+![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bumblebee-3&theme=gruvbox)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bumblebee-3&theme=gruvbox&utcOffset=8)
+![Productive Time Graph](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bumblebee-3&theme=gruvbox&utcOffset=8)
 
 [![My Trophies](https://github-profile-trophy.vercel.app/?username=Bumblebee-3&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
