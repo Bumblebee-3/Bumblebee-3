@@ -23,7 +23,7 @@ Beyond code, I compete as a **National Level Rifle Shooter**, which has shaped m
 ## 🛠 Tech Stack
 
 ```js
-const hridhuun = {
+const bumblebee = {
   role: "Software Developer",
   location: "Mumbai, India",
   languages: ["JavaScript","Shellscript/Bash" ,"Python","C++","Arduino (ino)", "HTML", "CSS"],
