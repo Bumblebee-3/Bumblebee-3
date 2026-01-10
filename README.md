@@ -1,7 +1,7 @@
-# Hi, I’m Bumblebee 👋  
+# Hi, I’m Bumblebee  
 *(aka DevilBehindYa)*
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=F78900&width=500&lines=Software+Developer;Open+Source+Contributor;National+Level+Rifle+Shooter;Building+clean+code+with+precision)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=F78900&width=500&lines=Software+Developer;Open+Source+Contributor;National+Level+Rifle+Shooter)](https://git.io/typing-svg)
 
 ---
 
@@ -10,13 +10,13 @@
 I’m a **17-year-old Software Developer from Mumbai, India**, passionate about building reliable systems, clean UIs, and developer-friendly tools.  
 I actively contribute to **open-source**, most notably **aoi.js**, where I lead the development of **@aoijs/aoi.panel**.
 
-Beyond code, I compete as a **National Level Rifle Shooter**, which has shaped my mindset around **discipline, consistency, and precision** — values I carry directly into my work as a developer.
+Beyond code, I compete as a **National Level Rifle Shooter**, which has shaped my mindset around **discipline, consistency, and precision**.
 
 -  Currently focused on **JavaScript ecosystems & backend tooling**
 -  Strong interest in **developer experience & automation**
 -  National medalist in rifle shooting
--  Hobbies: Photography  keyboards
--  Open to **freelance & collaboration opportunities**
+-  Hobbies: Photography, keyboards
+-  Open to **freelance & collaboration**
 
 ---
 
@@ -62,7 +62,7 @@ const bumblebee = {
 
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Bumblebee-3&theme=gruvbox&layout=compact&langs_count=8"/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bumblebee-3&theme=gruvbox)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bumblebee-3&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bumblebee-3&theme=gruvbox)
 
