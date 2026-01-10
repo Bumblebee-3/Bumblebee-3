@@ -5,7 +5,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I’m a **17-year-old Software Developer from Mumbai, India**, passionate about building reliable systems, clean UIs, and developer-friendly tools.  
 I actively contribute to **open-source**, most notably **aoi.js**, where I lead the development of **@aoijs/aoi.panel**.
@@ -20,7 +20,7 @@ Beyond code, I compete as a **National Level Rifle Shooter**, which has shaped m
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ```js
 const bumblebee = {
@@ -37,7 +37,7 @@ const bumblebee = {
 
 ---
 
-## 📦 Open Source & Packages
+## Open Source & Packages
 
 - **Lead Developer** 
   - [@aoijs/aoi.panel](https://www.npmjs.com/package/@akarui/aoi.panel)  [![npm](https://img.shields.io/npm/v/@akarui/aoi.panel?color=orange&logo=npm&style=flat-square)](https://www.npmjs.com/package/@akarui/aoi.panel)
@@ -54,7 +54,7 @@ const bumblebee = {
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![](https://komarev.com/ghpvc/?username=Bumblebee-3&color=orange)
 
