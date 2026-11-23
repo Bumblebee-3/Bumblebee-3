@@ -30,6 +30,36 @@ const bumblebee = {
 
 ---
 ## Featured Projects
+<table>
+<tr>
+<td width="180" align="center" valign="middle">
+
+<a href="https://github.com/Bumblebee-3/YOLO">
+  <img
+    src="https://github.com/Bumblebee-3/YOLO/blob/main/assets/logo.png?raw=true"
+    width="140"
+    alt="YOLO"
+  />
+</a>
+
+</td>
+
+<td valign="top">
+
+# <a href="https://github.com/Bumblebee-3/YOLO">YOLO</a>
+
+## Your Own Linux Overhaul
+
+A touch-first wallpaper-driven **Hyprland desktop for Arch**. Pick a wallpaper and the bar, launcher, terminal, notifications, lock screen, login screen, GTK/Qt apps and even Firefox recolor to match.
+
+`Shell` · `Python` · `QML` · `Hyprland` · `Arch Linux`
+
+​​​
+</td>
+</tr>
+</table>
+
+<br>
 
 <table>
 <tr>
@@ -226,6 +256,8 @@ I also enjoy **photography** and **formula 1**.
 
 ## GitHub
 
+<div align="center">
+
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Bumblebee-3&show_icons=true&theme=gruvbox&count_private=true" height="180"/>
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Bumblebee-3&theme=gruvbox&layout=compact&langs_count=8" height="180"/>
@@ -235,9 +267,12 @@ I also enjoy **photography** and **formula 1**.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bumblebee-3&theme=gruvbox" />
 </p>
 
-<p align = "center">
-    <img src="https://github-profile-repo.vercel.app/?username=Bumblebee-3&theme=gruvbox&title=-Reviews,-Issues" />
+<p align="center">
+  <img src="https://github-profile-repo.vercel.app/?username=Bumblebee-3&theme=gruvbox&title=-Reviews,-Issues&column=7&margin-w=12&margin-h=0" />
 </p>
+
+</div>
+
 
 ---
 
